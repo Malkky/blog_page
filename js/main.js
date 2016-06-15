@@ -1,0 +1,1 @@
+$("#myCarousel").tabs({ selected: 2 });
